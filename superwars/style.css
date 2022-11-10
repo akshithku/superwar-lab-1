@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.img{
+    height: 100px;
+}
+.h2{
+    margin: 80px;
+    text-align: start;
+}
+.hero-1{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 0 1rem rgb(123, 112, 112);
+}
+.hero-2{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 0 1rem rgb(72, 71, 71);
+}
+.villan-1{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 0 1rem rgb(123, 112, 112);
+}
+.villan-2{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 0 1rem rgb(123, 112, 112);
+}
