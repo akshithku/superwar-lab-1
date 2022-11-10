@@ -20,6 +20,7 @@ body{
     height: 200px;
     width: 100px;
     border: 1px solid black;
+     border-radius: 5px ;
     align-items: center;
     text-align: center;
     margin: 20px;
@@ -29,6 +30,7 @@ body{
     height: 200px;
     width: 100px;
     border: 1px solid black;
+    border-radius: 5px ;
     align-items: center;
     text-align: center;
     margin: 20px;
@@ -38,6 +40,7 @@ body{
     height: 200px;
     width: 100px;
     border: 1px solid black;
+     border-radius: 5px ;
     align-items: center;
     text-align: center;
     margin: 20px;
@@ -47,6 +50,7 @@ body{
     height: 200px;
     width: 100px;
     border: 1px solid black;
+     border-radius: 5px ;
     align-items: center;
     text-align: center;
     margin: 20px;
